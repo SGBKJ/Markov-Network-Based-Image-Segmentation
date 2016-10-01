@@ -4,4 +4,7 @@
 
 The details of the project is described in the paper: https://github.com/jay1204/Markov-Network-Based-Image-Segmentation/blob/master/Markov%20Network%20Based%20Image%20Segmentation.pdf
 
-## The code is implementd in matlab. The instructions for running the code is describe in 
+## How to run the code
+The code is implementd in matlab. The instructions for running the code is describe in https://github.com/jay1204/Markov-Network-Based-Image-Segmentation/blob/master/read-me.txt
+
+## 
